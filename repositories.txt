@@ -5888,6 +5888,7 @@ https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/L9110
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logic
+https://github.com/RobTillaart/logicAnalyzer
 https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2485
 https://github.com/RobTillaart/LTC2991
@@ -8299,6 +8300,7 @@ https://github.com/ivanmari/bare-poller
 https://github.com/lahavg/QMI8658-Arduino-Library
 https://github.com/k3ldar/MovementDetector
 https://github.com/k3ldar/SerialCommandManager
+https://github.com/k3ldar/NextionControl
 https://github.com/marcel-naderer/Lexo
 https://github.com/joshua-8/xrp-style-wpilib-comms
 https://github.com/bitbank2/bb_imu
